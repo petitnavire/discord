@@ -1,8 +1,9 @@
-
-"name": "BotBuildWithHostMyBot.tk",
+{Un séjour sans faille
+"name" : "BotBuildWithHostMyBot.tk" ,
 "version": "0.0.1",
 "private": true,
 "scripts": {
+ 
 "start": "node app.js"
 },
 "dependencies": {
